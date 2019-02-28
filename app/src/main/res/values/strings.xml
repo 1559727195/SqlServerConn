@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnSqlServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="testSQL">测试SQL</string>
+    <string name="clean">清除数据</string>
+</resources>
